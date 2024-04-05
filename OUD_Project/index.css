@@ -1,0 +1,25 @@
+h1{
+    display:flex;
+    justify-content: center;
+    border: 1px solid black;
+    background: lightblue;
+}
+
+h2{
+    
+    display:flex;
+    border: 1px solid black;
+
+    justify-content:space-around;
+}
+
+h4{
+    display:flex;
+    justify-content: space-around;
+}
+
+.nav-wrapper{
+    display:flex;
+    justify-content:space-around;
+}   
+
